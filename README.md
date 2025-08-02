@@ -24,7 +24,15 @@ Programmer|Minecraft mod developer
 
 - Learning: JavaScripts, TypeScripts
 
-## ☎️ Contact ways
+## 🎮Favourite Games
+
+1. Minecraft
+
+2. Breakout 13
+
+3. Revenge On Gold Diggers
+
+## ☎️ Contact Ways
 
 - e-mail: tiktok_sd@163.com
 
