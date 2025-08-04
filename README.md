@@ -8,34 +8,9 @@ Welcome to my GitHub profile
 
 Programmer|Minecraft mod developer
 
-## About
-
-- Come from Jiangsu Province, China
-
-- Time: UTC + 8
-
-- Pronounce: He/His
-
-## 🌲 Skills
-
-- Python
-
-- C++ (a little)
-
-- Learning: JavaScripts, TypeScripts
-
-## 🎮Favourite Games
-
-1. Minecraft
-
-2. Breakout 13
-
-3. Revenge On Gold Diggers
-
 ## ☎️ Contact Ways
 
 - e-mail: tiktok_sd@163.com
 
-- QQ: 352838907̀
+- QQ: 352838907
 
-> ⭐ Let's do something amazing 
